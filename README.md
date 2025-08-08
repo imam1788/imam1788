@@ -1,16 +1,45 @@
-## Hi there 👋
+<!-- Banner Image -->
+![Banner](https://i.ibb.co/BVZX0rrq/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner-2.png)
 
-<!--
-**imam1788/imam1788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Imam Hossain  
+### MERN Stack Developer | Building Scalable Web Applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+I am a passionate MERN Stack developer focused on creating dynamic and responsive web applications.  
+Currently exploring Next.js and advanced frontend tools to enhance user experience.  
+Always eager to learn new technologies and improve my coding skills.
+
+---
+
+## 🚀 Current Activities
+- Exploring Next.js framework for modern React applications  
+- Developing a Restaurant Website as a personal project  
+- Enhancing skills in backend API development with Node.js and Express  
+- Learning advanced state management and data fetching with TanStack Query  
+
+---
+
+## Skills
+
+### Frontend  
+- React  
+- JavaScript  
+- Tailwind CSS  
+
+### Backend  
+- Node.js  
+- Express.js  
+- MongoDB  
+
+### Tools & Platforms  
+- Git  
+- Firebase  
+- Stripe   
+
+---
+
+## Find me on   
+- LinkedIn: [https://linkedin.com/in/imam-hossain](https://linkedin.com/in/imamhossain1788)  
+- Twitter: [https://twitter.com/yourhandle](https://twitter.com/hossain_im2710)  
