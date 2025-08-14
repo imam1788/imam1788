@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co/BVZX0rrq/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner-2.png)
+![Banner](https://i.ibb.co.com/TBC271SJ/Neutral-Modern-Web-Developer-Linked-In-Banner.png)
 
 # Imam Hossain  
 ### MERN Stack Developer | Building Scalable Web Applications
