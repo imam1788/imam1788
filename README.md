@@ -36,7 +36,7 @@ Always eager to learn new technologies and improve my coding skills.
 ### Tools & Platforms  
 - Git  
 - Firebase  
-- Stripe   
+- vercel 
 
 ---
 
