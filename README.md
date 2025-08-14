@@ -41,5 +41,5 @@ Always eager to learn new technologies and improve my coding skills.
 ---
 
 ## Find me on   
-- LinkedIn: [https://linkedin.com/in/imam-hossain](https://linkedin.com/in/imamhossain1788)  
+- LinkedIn: [https://linkedin.com/in/imam-hossain](https://linkedin.com/in/imam-hossain1788)  
 - Twitter: [https://twitter.com/yourhandle](https://twitter.com/hossain_im2710)  
