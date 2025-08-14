@@ -2,7 +2,7 @@
 ![Banner](https://i.ibb.co.com/TBC271SJ/Neutral-Modern-Web-Developer-Linked-In-Banner.png)
 
 # Imam Hossain  
-### MERN Stack Developer | Building Scalable Web Applications
+### Passionate Frontend Developer | React.js & Node.js Specialist | Crafting Beautiful, Functional, and Scalable Web Applications
 
 ---
 
