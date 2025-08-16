@@ -1,23 +1,23 @@
 <!-- Banner Image -->
 ![Banner](https://i.ibb.co.com/TBC271SJ/Neutral-Modern-Web-Developer-Linked-In-Banner.png)
 
-# Imam Hossain  
-### Passionate Frontend Developer | React.js & Node.js Specialist | Crafting Beautiful, Functional, and Scalable Web Applications
+# 👨‍💻 Imam Hossain  
+### Passionate Frontend Developer | React.js & Node.js Specialist | Crafting Beautiful, Functional, and Scalable Web Applications  
 
 ---
 
-## 👋 About Me
-I am a passionate MERN Stack developer focused on creating dynamic and responsive web applications.  
-Currently exploring Next.js and advanced frontend tools to enhance user experience.  
-Always eager to learn new technologies and improve my coding skills.
+## 👋 About Me  
+I am a passionate **MERN Stack developer** focused on creating dynamic and responsive web applications.  
+Currently exploring **Next.js** and advanced frontend tools to enhance user experience.  
+Always eager to learn new technologies and improve my coding skills.  
 
 ---
 
-## 🚀 Current Activities
-- Exploring Next.js framework for modern React applications  
-- Developing a Restaurant Website as a personal project  
-- Enhancing skills in backend API development with Node.js and Express  
-- Learning advanced state management and data fetching with TanStack Query  
+## 🚀 Current Activities  
+- Exploring **Next.js framework** for modern React applications  
+- Developing a **Restaurant Website** as a personal project  
+- Enhancing skills in **backend API development** with Node.js and Express  
+- Learning advanced **state management & data fetching** with TanStack Query  
 
 ---
 
@@ -38,9 +38,18 @@ Always eager to learn new technologies and improve my coding skills.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 
+---
+
+## 📊 GitHub Stats  
+
+![Imam's GitHub stats](https://github-readme-stats.vercel.app/api?username=imam1788&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imam1788&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imam1788&layout=compact&theme=tokyonight)  
 
 ---
 
-## Find me on   
-- LinkedIn: [https://linkedin.com/in/imam-hossain](https://linkedin.com/in/imam-hossain1788)  
-- Twitter: [https://twitter.com/yourhandle](https://twitter.com/hossain_im2710)  
+## 🌐 Find Me On  
+- [LinkedIn](https://linkedin.com/in/imam-hossain1788)  
+- [Twitter](https://twitter.com/hossain_im2710)  
